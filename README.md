@@ -51,53 +51,29 @@ There are different types of crimes, some of which have a clear link to pandemic
 
 The dataset comprises 7427119 observations and 22 features with int, float, bool and object type values.
 
-Below are the images that show the trends during different years for the mentioned criminal activity.
-
-* X-axis represents years.
-* Y-axis represents count of the particular criminal activity.
-
-<img src = "img/Crime%20wise%20numbers%20over%20years.png" width="450" height ="350">
-
-The above horizontal bar graph shows a cumulative view of the trends in criminal activities over the years.
-
-<br>
-<img src = "img/Assault%20crime%20over%20the%20years.png" width="450" height ="350">
-
 **Assault Crimes**
 
 For the Assault, Crime data (AsCrime Group), we can observe a declining trend throughout. Observing the specific time period of the Economic recession from 2007 and the Covid-19 pandemic in 2020, we can figure out that the assault crime type overall has a declining trend for both the Recession and the Covid periods respectively. The decline in the count has been shallow during the recession but has a very rapid decrease during the covid period.
-
-<img src = "img/Weapon%20violation%20over%20the%20year.png" width="450" height ="350">
 
 **Weapons Violations**
 
 For the weapon violations based Group of crimes, we can observe a good decline from 2007 with a sharp rise after 2008. This period during the recession created severe financial stress amongst people which led to a sharp increase in mugging or violence using guns. These crime rates went up drastically during the Covid period as well possibly due to lockdown and its related psychological impacts on people. The covid-19 period created financial stress in people. Observing specific time period of economic recession from 2007 and the Covid-19 pandemic in 2020, we can figure out that this crime type overall has an increasing trend during both the Recession and the Covid-19 period.
 
-<img src = "img/Robbery%20and%20Burglary%20over%20the%20years.png" width="450" height ="350">
-
 **Burglary and Robbery Crimes**
 
 For the Burglary and Robbery Crime data (BugRob Group), we can observe a slight increase from 2007 with a slight dip in 2008 followed by a steady increase again in the later years. These crime rates went down drastically during the Covid period possibly due to lockdowns since people were mandated to stay at their homes. Observing the specific time period of Economic recession from 2007 and the Covid-19 pandemic in 2020, we can figure out that this crime type overall has an increasing trend for during the Recession and a declining trend during the Covid period.
-
-<img src = "img/Theft%20over%20the%20years.png" width="450" height ="350">
 
 **Theft Crimes**
 
 For the Theft, the Crime data (ThefM Group), which also includes 'Motor Vehicle Thefts', we can observe a slight decrease from 2007 to 2008 followed by a sharp increase again in 2009. These crime rates went down drastically during the Covid period possibly due to lockdown since the presence of people at home made it difficult to proceed with such criminal activities. Observing the specific time period of economic recession from 2007 and the Covid-19 pandemic in 2020, we can figure out that this crime type overall has an increasing trend for during the Recession and a declining trend during the Covid period.
 
-<img src = "img/gambling%20%26%20Narcotics%20over%20years.png" width="450" height ="350">
-
 **Gambling and Narcotics crimes**
 
 For the GamNar Group of crimes, consisting of gambling and narcotic crimes, we can observe a steady decrease from 2007 with a sharp decline from 2008 possibly due to heavy financial crunch and social unrest. These crime rates went down drastically during the Covid period as well due to lockdown and strict norms by the civic authorities implemented to restrict the movement of people in the open. Observing the specific time period of economic recession from 2007 and the Covid-19 pandemic in 2020, we can figure out that this crime type overall has a declining trend for both the Recession and the Covid-19 period.
 
-<img src = "img/Public%20oeace%20violation%20over%20year.png" width="450" height ="350">
-
 **Public Peace Violations**
 
 For the PubViolation Group of crimes, consisting of crimes creating social unrest, we can observe an increase from 2007 with a slightly negligible decline in 2008 followed by an increase from 2009 possibly due to heavy resistance and protests from people impacted by the disaster. These crime rates went down drastically during the Covid period as well due to lockdown and severe punishments for anyone breaking the lockdown rules. Observing specific time period of economic recession from 2007 and the Covid-19 pandemic in 2020, we can figure out that this crime type overall has an increasing trend during the Recession and a declining trend during the Covid-19 period.
-
-<img src = "img/Homicide%20over%20the%20years.png" width="450" height ="350">
 
 **Homicide crimes**
 
