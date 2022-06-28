@@ -9,7 +9,7 @@ This project is a part of the Survey of Programming Languages (ITCS - 5102) cour
 * Dhvani Patel
 
 ## Project Introduction
-The objective of this project is to find the correlation between criminal activities ( example: homicide, weapon violations) and, financial crisis (2007-2008) and COVID-19 pandemic and create a model to further predict the trends in criminal activities if such a disaster might ever occur in future. The dataset comprises incidents reported in the City of Chicago from 2001 to the present. CRISP-DM methodology will be used to conduct this study that consists of a problem and data understanding, data preparation, modeling, evaluation, and deployment phases. Our aim is to uncover rules for quantifying relationships between attributes (example: public peace violation during both the events).
+The objective of this project is to find the correlation between criminal activities ( example: homicide, weapon violations) and COVID-19 pandemic and create a model to further predict the trends in criminal activities if such a disaster might ever occur in future. The dataset comprises incidents reported in the City of Chicago from 2001 to the present. CRISP-DM methodology will be used to conduct this study that consists of a problem and data understanding, data preparation, modeling, evaluation, and deployment phases. Our aim is to uncover rules for quantifying relationships between attributes (example: public peace violation during both the events).
 
 ## Data Resource
 [Link for the dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data)
@@ -45,7 +45,7 @@ Steps involved in the process:
 
 ## Business Understanding Stage
 
-There are different types of crimes, some of which have a clear link to pandemic and recession, while others do not. It is crucial to think about the plausible directions of causality. Chicago has higher crime rates than any other city. There is an overall declining trend in the number of crimes that occurred between 2001 and 2021. Although, certain types of crimes show an upward trend when disasters such as a recession or pandemic occur.
+There are different types of crimes, some of which have a clear link to pandemic ,while others do not. It is crucial to think about the plausible directions of causality. Chicago has higher crime rates than any other city. There is an overall declining trend in the number of crimes that occurred between 2001 and 2021. Although, certain types of crimes show an upward trend when disasters such as pandemic occur.
 
 ## Data Understanding Stage / Exploratory Data Analysis
 
@@ -53,7 +53,7 @@ The dataset comprises 7427119 observations and 22 features with int, float, bool
 
 **Assault Crimes**
 
-For the Assault, Crime data (AsCrime Group), we can observe a declining trend throughout. Observing the specific time period of the Economic recession from 2007 and the Covid-19 pandemic in 2020, we can figure out that the assault crime type overall has a declining trend for both the Recession and the Covid periods respectively. The decline in the count has been shallow during the recession but has a very rapid decrease during the covid period.
+For the Assault, Crime data (AsCrime Group), we can observe a declining trend throughout. Observing the specific time period of the Covid-19 pandemic in 2020, we can figure out that the assault crime type overall has a declining trend for both the Recession and the Covid periods respectively. The decline in the count has been shallow during the recession but has a very rapid decrease during the covid period.
 
 **Weapons Violations**
 
