@@ -1,7 +1,7 @@
 # Impact-of-Covid-19-Pandemic-on-Criminal-Activities
 
 # SPL-Group-6
-This project is a part of the Knowledge Discovery in Databases (ITCS - 6162) course from the University of North Carolina at Charlotte.
+This project is a part of the Survey of Programming Languages(ITCS - 5102) course from the University of North Carolina at Charlotte.
 
 ## Team Members
 * Sumati Bele
